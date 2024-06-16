@@ -1,70 +1,11 @@
-# Getting Started with Create React App
+# Ello ebooks React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Fetching Data Using apollo-client in React from a GraphQL API.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-06-16 100912](https://github.com/GisoreB/react_javascript_apollo_graphql_fetch_app/assets/144854877/8eaeaff1-5564-4eca-9d07-aef0307fd4b2)
+![Screenshot 2024-06-15 200534](https://github.com/GisoreB/react_javascript_apollo_graphql_fetch_app/assets/144854877/d9ba6cf0-e13e-47aa-a626-29af1c0818d0)
+![Screenshot 2024-06-16 111515](https://github.com/GisoreB/react_javascript_apollo_graphql_fetch_app/assets/144854877/bd8e4370-a9af-47fe-9fd4-c704085937ee)
+![Screenshot 2024-06-16 111459](https://github.com/GisoreB/react_javascript_apollo_graphql_fetch_app/assets/144854877/423a201c-5714-49f2-8fa3-c4f02610a92a)
+![Screenshot 2024-06-16 111440](https://github.com/GisoreB/react_javascript_apollo_graphql_fetch_app/assets/144854877/8d45282b-ce15-4215-82f1-0771a4d47c22)
